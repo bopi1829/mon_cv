@@ -10,7 +10,7 @@ function App() {
       <header className="App-header">
         <TitleCV firstName="Pierrick" lastName="Boucharlat"/>
         <Formations />
-        <Experiences />        
+        <Experiences /> 
       </header>
     </div>
   );

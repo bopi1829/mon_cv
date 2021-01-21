@@ -7,7 +7,7 @@ export default function Formations() {
             <h3 className="Formations-title">
                 Formation React JS Entreprise
             </h3>
-            <p className="Formations-link" style={{textAlign: 'left'}}><em>Avec Mike Codeur</em></p>
+            <p className="Formations-link" style={{textAlign: 'left'}}><em>Avec <a href="https://formations.mikecodeur.com/react-js-entreprise" target="_blank">Mike Codeur</a></em></p>
             <p className="Formations-p">Apprendre à créer des applications web avec le framework React JS.
             Comprendre la philosophie de React, orientée composants.
             Etre capable de faire un site web en React JS :
@@ -19,7 +19,7 @@ export default function Formations() {
                     <li>Les starters Packs (boilerplate, next.js)</li>
                     <li>Initialisation aux <strong>Tests Unitaires</strong></li>        
                     <li>
-                        Application web, avec React Boilerplate, qui va permettre de rechercher des personnages Marvel (via API Marvel)
+                        Application web, avec <strong>React Boilerplate</strong>, qui va permettre de rechercher des personnages Marvel (via API Marvel)
                         <ul>
                             <li>Utilisation de Material-UI</li>
                             <li>Appel d'API Marvel</li>
