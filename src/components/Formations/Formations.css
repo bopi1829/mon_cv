@@ -1,0 +1,21 @@
+.Formations-App {
+    width: 750px;
+
+}
+.Formations-title {
+    text-align: left;
+}
+
+.Formations-p {
+    text-align: left;
+    font-size: 16px;
+    color: white
+}
+
+.Formations-link a {
+    color: #61dafb;
+}
+
+a {
+    color: #61dafb;
+}
