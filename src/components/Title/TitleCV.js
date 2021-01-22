@@ -1,4 +1,5 @@
 import React from 'react';
+import Pierrick from './Pierrick.jpg';
 import './TitleCV.css'
 
 export default class TitleCV extends React.Component {
@@ -8,9 +9,14 @@ export default class TitleCV extends React.Component {
     
     render() {
         return(
-            <div className="TitleCV">
-                <h1>Développeur React JS</h1>
-                <h2>{this.props.firstName} {this.props.lastName}</h2>
+            <div className="Title">
+                <div>
+                    <img className="Img" src={Pierrick} alt="Pierrick" />
+                </div>
+                <div className="TitleCV">
+                    <h1 className="TitleCV-H1">Développeur React JS</h1>
+                    <h2 className="TitleCV-H2">{this.props.firstName} {this.props.lastName}</h2>
+                </div>
             </div>
         )
     }

@@ -1,5 +1,24 @@
+.Title {
+  width: 950px;
+  background-color: crimson;
+}
+
 .TitleCV {
   color: #61dafb;
-  width: 100%;
-  height: auto;
+  width: 650px;
+  float: left;
+  text-align: center;
+}
+
+.Img {
+  width: 215px;
+  float: left;
+  padding: 10px;
+}
+
+img {
+  border-top-left-radius: 30%;
+  border-bottom-right-radius: 25%;
+  border-top-right-radius: 50%;
+  border-bottom-left-radius: 15%;
 }

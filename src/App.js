@@ -8,9 +8,9 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <TitleCV firstName="Pierrick" lastName="Boucharlat"/>
+        <TitleCV firstName="Pierrick" lastName="Boucharlat" />
         <Formations />
-        <Experiences /> 
+        <Experiences />
       </header>
     </div>
   );

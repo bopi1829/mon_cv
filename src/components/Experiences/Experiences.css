@@ -1,6 +1,6 @@
 .Experiences {
     text-align: left;
-    width: 750px;
+    width: 950px;
     
 }
 
@@ -9,6 +9,9 @@
 }
 
 .LinkPerso {
-    text-align: left;
-    width: 750px;
+    width: 950px;
+}
+
+span {
+    font-weight: bold;
 }

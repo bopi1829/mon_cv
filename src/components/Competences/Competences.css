@@ -1,0 +1,17 @@
+.Competences {
+    text-align: left;
+    width: 950px;
+}
+
+.Competences-p {
+    font-size: 16px;
+}
+
+.Competences-tech {
+    width: 48%;
+    float: left;
+}
+.Competences-pro {
+    width: 48%;
+    float: right;
+}
