@@ -6,7 +6,6 @@ export default class TitleCV extends React.Component {
     constructor(props) {
         super(props)
     }
-    
     render() {
         return(
             <div className="Title">
@@ -19,5 +18,5 @@ export default class TitleCV extends React.Component {
                 </div>
             </div>
         )
-    }
+    }    
 }

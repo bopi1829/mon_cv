@@ -1,6 +1,7 @@
 .Competences {
     text-align: left;
     width: 950px;
+    border-radius: 20%;
 }
 
 .Competences-p {
@@ -10,7 +11,9 @@
 .Competences-tech {
     width: 48%;
     float: left;
+    padding-left: 10px;
 }
+
 .Competences-pro {
     width: 48%;
     float: right;

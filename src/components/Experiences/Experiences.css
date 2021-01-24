@@ -9,9 +9,23 @@
 }
 
 .LinkPerso {
-    width: 950px;
+    width: 950px;;
 }
 
-span {
-    font-weight: bold;
+.Icone {
+    width: 45%;
+    float: left;
+}
+  
+.Contact {
+    width: 45%;
+    float: right;
+}
+
+.Contact-P {
+    font-size: 16px;
+}
+
+.LinkPerso-Icone {
+    padding-left: 20px;
 }

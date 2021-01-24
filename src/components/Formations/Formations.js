@@ -1,5 +1,4 @@
 import React from 'react';
-import Competences from '../Competences/Competences';
 import './Formations.css';
 
 export default function Formations() {
@@ -45,7 +44,6 @@ export default function Formations() {
                     <li>Découverte d'API Plateform</li>
                 </ul>
             </p>            
-            <Competences/>
         </div>
     )
 }
